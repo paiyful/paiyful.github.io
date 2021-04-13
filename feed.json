@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "subtitle": "",
+    "title": "这是一个萌新的网站",
+    "subtitle": "请多关照啦！",
     "icon": "http://example.com/images/favicon.ico",
-    "description": "",
+    "description": "热爱生活，学习，游戏的一个废柴",
     "home_page_url": "http://example.com",
     "items": [
         {

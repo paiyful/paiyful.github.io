@@ -1,17 +1,18 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
-        <subtitle></subtitle>
+        <title>这是一个萌新的网站</title>
+        <subtitle>请多关照啦！</subtitle>
         <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
-          <name>John Doe</name>
+          <name>落烬丶</name>
         </author>
-        <description></description>
-        <language>en</language>
+        <description>热爱生活，学习，游戏的一个废柴</description>
+        <language>zh-CN</language>
         <pubDate>Sun, 11 Apr 2021 16:52:17 +0800</pubDate>
         <lastBuildDate>Sun, 11 Apr 2021 16:52:17 +0800</lastBuildDate>
+        <category term="爱生活，爱游戏，爱编程" />
         <item>
             <guid isPermalink="true">http://example.com/2021/04/11/hello-world/</guid>
             <title>Hello World</title>
